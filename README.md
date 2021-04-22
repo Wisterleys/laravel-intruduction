@@ -1,3 +1,3 @@
-# Introdução ao larevel
+# Introdução ao Larevel
 
 ### Em andamento...
